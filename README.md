@@ -1,7 +1,7 @@
 # online-shopping-project
 
 <br/><br/>
-Libraries loaded:
+Libraries loaded:<br/>
 1- Bootstrap (npm i bootstrap) <br/>
 2-font-awesome (npm i font-awesome)<br/>
 3- Redux (npm install --save redux)<br/>
